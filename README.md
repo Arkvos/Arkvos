@@ -1,49 +1,63 @@
-# Arkvos
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4YpGg/giphy.gif" width="45"> Arkvos
 
-### **Architecting Scalable Intelligence & Robust Engineering**
+### <samp>Architecting Scalable Intelligence & Robust Engineering</samp>
 
-Welcome to **Arkvos**, a technical collective dedicated to building high-performance software systems and data-driven solutions. Our mission is to bridge the gap between complex data analysis and scalable software architecture through rigorous engineering standards.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&width=435&lines=Scalable+Software+Development;Data+Analysis+%26+Generative+AI;Robust+CI%2FCD+Pipelines;High+Performance+Systems" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Core Specializations
+## 🛠 Core Specializations 
 
-At **Arkvos**, we focus on the intersection of software craftsmanship and system reliability. Our expertise spans the entire Software Development Life Cycle (SDLC):
+At **Arkvos**, we specialize in the intersection of software craftsmanship and system reliability.
 
-* **Scalable Software Development:** Designing and deploying distributed systems using modern frameworks (Django, FastAPI, Node.js) with a focus on high availability.
-* **Data Analysis & AI:** Transforming raw data into actionable insights and integrating Generative AI/LLM solutions (Llama, Hugging Face) into production environments.
-* **Robust CI/CD Pipelines:** Implementing automated workflows that ensure code quality, security, and seamless deployment through Docker and cloud-native practices.
-* **Infrastructure & Cloud:** Building the backbone for modern applications with a focus on performance optimization and system monitoring.
+* **🚀 Scalable Development:** Designing distributed systems with a focus on high availability.
+* **🧠 Intelligence:** Integrating LLM solutions (Llama, Hugging Face) into production.
+* **⚙️ Automation:** Implementing "Robust Dev" through automated CI/CD and Docker workflows.
+* **📊 Data Insights:** Transforming raw data into high-performance analytical systems.
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,django,postgres,docker,githubactions,aws,fastapi" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 Our Philosophy: "Robust by Design"
 
-We believe that software should not only work but endure. Our approach to "Robust Dev" is built on three pillars:
+<blockquote>
+  <strong>Automation First:</strong> We prioritize CI/CD to eliminate human error and ensure seamless delivery.
+</blockquote>
 
-1.  **Automation:** If a process can be automated, it should be. We prioritize CI/CD to eliminate human error.
-2.  **Scalability:** We build for tomorrow’s growth today, ensuring architectures can handle increased loads without friction.
-3.  **Integrity:** From data cleaning to final deployment, we maintain high standards of code integrity and system security.
-
----
-
-## 📊 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, C++ |
-| **Frameworks** | Django, Flask, FastAPI, React |
-| **Data & AI** | PostgreSQL, Pandas, Ollama (Llama3), Hugging Face |
-| **DevOps** | GitHub Actions, Docker, REST APIs, Cloud Computing |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📈 Performance</h3>
+      <p>Building for tomorrow's growth by ensuring architectures handle load with zero friction.</p>
+    </td>
+    <td width="50%">
+      <h3>🛡️ Integrity</h3>
+      <p>From data cleaning to deployment, we maintain high standards of code security.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📬 Connect with Us
-
-We are always open to collaborating on open-source projects or discussing complex system architectures.
-
-* **GitHub:** [github.com/Arkvos](https://github.com/Arkvos)
-* **Focus:** Full-Stack Development | Data Engineering | MLOps
+<p align="left">
+<a href="https://github.com/Arkvos">
+  <img src="https://img.shields.io/badge/Arkvos-Organization-blue?style=for-the-badge&logo=github" />
+</a>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
 
 ---
-*Maintained by the Arkvos Engineering Team.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
